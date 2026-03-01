@@ -1,6 +1,6 @@
 # University Database Management System (PostgreSQL)
 
-A comprehensive Relational Database Management System (RDBMS) designed to manage the academic and administrative operations of a University Department. This project was developed as **Phase A** of the laboratory assignment for the **Distributed Information Systems and Applications (PLH 303)** course at the **Technical University of Crete** (Spring 2021-2022).
+A comprehensive Relational Database Management System (RDBMS) designed to manage the academic and administrative operations of a University Department. This project was developed as **Phase A** of the laboratory assignment for the **Distributed Information Systems and Applications (PLH 303)** course at the **Technical University of Crete** (Spring 2023).
 
 ## 📌 Project Overview
 The system models the complex relationships between students, professors, courses, labs, and administrative rules. It is built on **PostgreSQL** and extends a baseline schema to support advanced functionality such as thesis management, lab workgroups, and automated grading logic.
